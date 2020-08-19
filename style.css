@@ -1,0 +1,24 @@
+.name{
+    padding: 0px 0px 0px 0px;
+    font-size: 30px;
+    background-color: skyblue;
+    font-family: 'Times New Roman', Times, serif;
+    color: snow;
+    
+
+}
+
+.myrow{
+   top: 10px;
+   position: relative;
+   background-color: #ebecec;
+   font-size: 35;
+}
+
+.nav-link{
+    color: black;
+}
+
+.card1{
+    padding: 20px 20px 20px 20px;
+}
