@@ -1,5 +1,8 @@
 .name{
-    padding: 0px 0px 0px 0px;
+   
+    position: relative;
+    left: 10px;
+    top: 5px;
     font-size: 30px;
     background-color: skyblue;
     font-family: 'Times New Roman', Times, serif;
@@ -12,13 +15,17 @@
    top: 10px;
    position: relative;
    background-color: #ebecec;
-   font-size: 35;
+   font-size: 20px;
 }
 
 .nav-link{
     color: black;
 }
 
-.card1{
-    padding: 20px 20px 20px 20px;
+.abt{
+    color: skyblue;
 }
+.lorem1{
+  color: black;
+  font-family: sans-serif;
+ 
