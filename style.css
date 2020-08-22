@@ -1,31 +1,77 @@
-.name{
-   
-    position: relative;
-    left: 10px;
-    top: 5px;
-    font-size: 30px;
-    background-color: skyblue;
-    font-family: 'Times New Roman', Times, serif;
-    color: snow;
-    
-
+.name {
+  position: relative;
+  left: 10px;
+  top: 5px;
+  font-size: 30px;
+  background-color: skyblue;
+  font-family: "Times New Roman", Times, serif;
+  color: snow;
 }
 
-.myrow{
-   top: 10px;
-   position: relative;
-   background-color: #ebecec;
-   font-size: 20px;
+.nav-link {
+  color: skyblue;
 }
 
-.nav-link{
-    color: black;
+.abt {
+  color: skyblue;
 }
 
-.abt{
-    color: skyblue;
+body {
+  background-image: url(./Images/pexels-ovan-62693.jpg);
 }
-.lorem1{
-  color: black;
+
+.strawberry {
+  width: 200px;
+  height: 150px;
+}
+
+#box1 {
+  float: left;
+  color: lightgray;
+  padding: 0px 0px 50px 0px;
+}
+
+#box2 {
+  float: left;
+  color: lightgray;
+  padding: 0px 0px 70px 0px;
+}
+
+.myrow {
+  top: 10px;
+  position: relative;
+  background-color: #ebecec;
+  font-size: 20px;
+}
+
+.lorem1 {
+  color: navy;
   font-family: sans-serif;
- 
+}
+
+.fa {
+  padding: 10px;
+  font-size: 25px;
+  width: 30px;
+  text-align: center;
+  text-decoration: none;
+  margin: 3px 1px;
+  left: 50px;
+}
+
+.fa:hover {
+  opacity: 0.7;
+}
+
+.fa-linkedin {
+  background: #007bb5;
+  color: white;
+}
+.fa-facebook {
+    background: #3B5998;
+    color: white;
+}
+.fa-youtube {
+  background: #bb0000;
+  color: white;
+}
