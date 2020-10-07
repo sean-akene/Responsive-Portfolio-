@@ -29,6 +29,7 @@ body {
   float: left;
   color: lightgray;
   padding: 0px 0px 50px 0px;
+ 
 }
 
 #box2 {
@@ -40,12 +41,12 @@ body {
 .myrow {
   top: 10px;
   position: relative;
-  background-color: #ebecec;
+  background-color: rgb(224, 223, 223);
   font-size: 20px;
 }
 
 .lorem1 {
-  color: navy;
+  color: rgb(26, 26, 26);
   font-family: sans-serif;
 }
 
@@ -74,4 +75,9 @@ body {
 .fa-youtube {
   background: #bb0000;
   color: white;
+}
+
+#foot1{
+  background: rgb(224, 223, 223);
+  border-color: lightslategray;
 }
