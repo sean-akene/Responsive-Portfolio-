@@ -21,9 +21,17 @@ body {
 }
 
 .strawberry {
-  width: 200px;
+  width: 300px;
   height: 150px;
+  margin-bottom: 10px;
+  
 }
+.strawberry:hover{
+  opacity: 0.7;
+  cursor: pointer;
+  
+}
+
 
 #box1 {
   float: left;
@@ -36,6 +44,13 @@ body {
   float: left;
   color: lightgray;
   padding: 0px 0px 70px 0px;
+}
+
+#box3 {
+  float: left;
+  color: lightgray;
+  padding: 0px 0px 80px 0px;
+ 
 }
 
 .myrow {
@@ -63,6 +78,14 @@ body {
 .fa:hover {
   opacity: 0.7;
 }
+
+.porto{
+  color: rgb(35, 35, 36);
+}
+.porto2{
+  color: skyblue;
+}
+  
 
 .fa-linkedin {
   background: #007bb5;
