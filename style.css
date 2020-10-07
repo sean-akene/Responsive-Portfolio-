@@ -91,16 +91,16 @@ body {
   background: #007bb5;
   color: white;
 }
-.fa-facebook {
-    background: #3B5998;
-    color: white;
-}
-.fa-youtube {
-  background: #bb0000;
+
+.fa-github{
+  background:rgb(26, 26, 26);;
   color: white;
 }
 
 #foot1{
   background: rgb(224, 223, 223);
   border-color: lightslategray;
+  bottom: 0;
+  width: 100%;
+
 }
